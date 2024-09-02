@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="www.linkedin.com/in/labesh-garg-9b9037247" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-labesh%20garg-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Labesh%20Garg-blue?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
